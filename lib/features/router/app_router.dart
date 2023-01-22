@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_redux_sample/features/beer_list_page/beer_list_page.dart';
-import 'package:flutter_redux_sample/features/search_page/SearchPage.dart';
+import 'package:flutter_redux_sample/features/search_page/search_page.dart';
 import 'package:flutter_redux_sample/main.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
